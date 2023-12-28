@@ -1,11 +1,14 @@
 ### Hewooo ~
 
-I personally didn't know what to do :v, but if you want me write an article or something I will gladly doing it.
+## Announcement
+I will take a rest from heeky geeky tech stuff, maybe I will stil contrib minor commits but that will rarely happen.
 
-For example, I have a x86-64 Linux Assembly Tutorial in ID but the blog seems like stalled :<
+My grades drop cause of this so my father advice to me take a rest until I graduate from Senior Highschool.
 
-I'm interested in system programming like Win32 or POSIX stuff.
+Farewell then, until we cross path again.
 
-
+```c
+NtSuspendProcess(NtCurrentProcess())
+```
 
 `26 - 11 - 2020`
